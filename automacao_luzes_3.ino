@@ -13,7 +13,7 @@
 #define PINO_LED      2
 
 // CONFIGURAÇÕES DO WIFI
-const char* WIFI_NOME  = "CARD0SO-EXT";
+const char* WIFI_NOME  = "";
 const char* WIFI_SENHA = "";
 
 // OBJETOS
